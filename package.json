@@ -1,0 +1,20 @@
+{
+  "name": "mysql-schema",
+  "author": "Musubu Inc. <dev@musubu.co.jp>",
+  "description": "Lean and simple MySQL ORM for node"
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/musubu/node-mysql-schema"
+  },
+  "keywords": ["node", "mysql", "orm", "schema"],
+  "main": "./lib/mysql-schema",
+  "engines": {
+    "node": ">=0.6.10"
+  },
+  "dependencies": {
+    "mysql": ">=0.9.5",
+    "validator": ">=0.4.5"
+  },
+  "devDependencies": {}
+}
