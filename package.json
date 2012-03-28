@@ -1,7 +1,7 @@
 {
   "name": "mysql-schema",
   "author": "Musubu Inc. <dev@musubu.co.jp>",
-  "description": "Lean and simple MySQL ORM for node"
+  "description": "Lean and simple MySQL ORM for node",
   "version": "0.1.0",
   "repository": {
     "type": "git",
